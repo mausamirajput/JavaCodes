@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="99da7053-cd27-4f1b-b33d-4e571e917d22" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+        <option value="spring-beans.schema" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1aFtcLm4a2x9QfHZ0MDSVRpmX5G" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/main/java/com/spring/model" />
+      <recent name="$PROJECT_DIR$/src/main/java" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="Dempapp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.spring.main.Dempapp" />
+      <module name="Springbeanlifecycle" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.spring.main.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Dempapp" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="99da7053-cd27-4f1b-b33d-4e571e917d22" name="Default Changelist" comment="" />
+      <created>1586343249354</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1586343249354</updated>
+      <workItem from="1586343257911" duration="506000" />
+      <workItem from="1586344619089" duration="1673000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="320" y="89" key="#Project_Structure" timestamp="1586344683091">
+      <screen x="0" y="23" width="1440" height="801" />
+    </state>
+    <state x="320" y="89" key="#Project_Structure/0.23.1440.801@0.23.1440.801" timestamp="1586344683091" />
+    <state x="399" y="256" key="com.intellij.ide.util.TipDialog" timestamp="1586343258305">
+      <screen x="0" y="23" width="1440" height="801" />
+    </state>
+    <state x="399" y="256" key="com.intellij.ide.util.TipDialog/0.23.1440.801@0.23.1440.801" timestamp="1586343258305" />
+    <state x="114" y="121" key="new project wizard" timestamp="1586425155460">
+      <screen x="0" y="23" width="1440" height="801" />
+    </state>
+    <state x="114" y="121" key="new project wizard/0.23.1440.801@0.23.1440.801" timestamp="1586425155460" />
+  </component>
+</project>
